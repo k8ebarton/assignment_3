@@ -1,0 +1,32 @@
+@font-face {
+	font-family: "Schnyder";
+	src: url('SchnyderM-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Didot";
+	src: url(Didot.woff) format('woff');
+}
+
+@font-face {
+	font-family: "Facultad";
+	src: url('Facultad-Regular.woff') format('woff');
+}
+
+#body-01 {
+	font-family: 'Schnyder', serif;
+	font-size: 24pt;
+	width: 700px;
+}
+
+#body-02 {
+	font-family: 'Didot', serif;
+	font-size: 24pt;
+	width: 700px;
+}
+
+#body-03 {
+	font-family: 'Facultad';
+	font-size: 24pt;
+	width: 700pt;
+}

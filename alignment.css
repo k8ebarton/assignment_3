@@ -1,0 +1,22 @@
+#body-01 {
+	justify-content: left;
+	width: 850px;
+	font-size: 24pt;
+}
+
+.body-container { 
+	width: 1000px;
+	height: 1000px;
+}
+
+#body-02 {
+	text-align: center;
+	width: 850px;
+	font-size: 24pt;
+}
+
+#body-03 {
+	text-align: right;
+	width: 850px;
+	font-size: 24pt;
+}
