@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "Schnyder";
+	src: url('SchnyderM-BoldItalic.woff') format('woff');
+}
+
+#body-01 {
+	background-color: #F7CAC9;
+	color: #B27A78;
+	padding: 20px;
+	font-family: 'Schnyder', serif;
+	font-size: 24pt;
+	width: 700px;
+}
+
+#body-02 {
+	background-color: #63888E;
+	color: #C6E2DA;
+	padding: 20px;
+	font-family: 'Schnyder', serif;
+	font-size: 24pt;
+	width: 700px;
+}
+
+#body-03 {
+	color: #91A8D0;
+	background-color: #403F6F;
+	padding: 20px;
+	font-family: 'Schnyder', serif;
+	font-size: 24pt;
+	width: 700px;
+}
