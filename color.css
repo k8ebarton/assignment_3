@@ -1,3 +1,38 @@
+.active {
+	background-color: white; 
+}
+
+.flex-container {
+	display: flex;
+}
+
+.body {
+	flex-direction: column;
+	padding: 0px 0px 0px 40px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 15px 0px 0px 0px;
+	width: 180px;
+	height: 100%;
+	background-color: #b27a78;
+}
+
+li a {
+	display: block;
+	width: 180px;
+	color: #F7CAC9;
+	font-size: 14pt;
+	padding: 8px 20px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: white;
+}
+
 @font-face {
 	font-family: "Schnyder";
 	src: url('SchnyderM-BoldItalic.woff') format('woff');
@@ -10,6 +45,7 @@
 	font-family: 'Schnyder', serif;
 	font-size: 24pt;
 	width: 700px;
+	margin: 20px;
 }
 
 #body-02 {
@@ -19,6 +55,7 @@
 	font-family: 'Schnyder', serif;
 	font-size: 24pt;
 	width: 700px;
+	margin: 20px;
 }
 
 #body-03 {
@@ -28,4 +65,5 @@
 	font-family: 'Schnyder', serif;
 	font-size: 24pt;
 	width: 700px;
+	margin: 20px;
 }
